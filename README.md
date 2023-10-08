@@ -1,6 +1,7 @@
-# INTEGRANTES: 
-# Agustin Landeria, Iara Zoe Pasquario Cruz y Ivo Barinstein 
+# - INTEGRANTES: 
+<h3> Agustin Landeria, Iara Zoe Pasquario Cruz y Ivo Barinstein </h3>
 
+# - DETALLES:
 <p> El repositorio está conformado por tres carpetas con el nombre "PARTE".
-Conteniendo el PDF con el link del proyecto de Tinkercad para simularlo,
-el PDF con los enunciados y un documento de texto con solo el código del programa. </p>
+Cada una Conteniene un README con el link del proyecto de Tinkercad para simularlo,
+el PDF con los enunciados, y un bloque de codigo donde esta detallado el programa </p>

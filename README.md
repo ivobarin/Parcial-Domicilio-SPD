@@ -1,4 +1,5 @@
-# INTEGRANTES: Agustin Landeria, Iara Zoe Pasquario Cruz y Ivo Barinstein 
+# INTEGRANTES: 
+# Agustin Landeria, Iara Zoe Pasquario Cruz y Ivo Barinstein 
 
 <p> El repositorio esta conformado por tres carpetas con el nombre "PARTE".
 Conteniendo el pdf con el link del proyecto de tinkercad para simularlo,

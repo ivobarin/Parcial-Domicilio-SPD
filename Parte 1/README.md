@@ -1,5 +1,8 @@
-# - Enlace al circuito de Tinkercat (Primera Parte):
-<p>link del proyecto: <a href="https://www.tinkercad.com/things/7otP8gg8quv?sharecode=drkhtWnJcFmuPu_mF_jme56yLRQ5tE9Zrmg1zA8gEAA">PARTE 1</a></p>
+# - Enlace al circuito de Tinkercat (Primera Parte) 💻:
+<p>Link del proyecto: <a href="https://www.tinkercad.com/things/7otP8gg8quv?sharecode=drkhtWnJcFmuPu_mF_jme56yLRQ5tE9Zrmg1zA8gEAA">PARTE 1</a></p>
+
+# - Enlace al PDF con las consignas📑:
+<p>Link del pdf: <a href="https://drive.google.com/file/d/1UTj8HBPnR7vM235m1BswtL_SMnmYe8nO/view?usp=sharing">PDF PARTE 1</p>
 
 # - Codigo del proyecto: 
 ```

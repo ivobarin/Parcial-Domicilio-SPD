@@ -24,7 +24,7 @@ sin tener que utilizar el sensor de temperatura.
 La resistencia que utiliza es de 10 kilo-Ohms.</p>
 
 # - Consigna parte 3📑:
-<h3>Modifica el proyecto de la Parte 2 de la siguiente manera</h3>:
+<h3>Modifica el proyecto de la Parte 2 de la siguiente manera:</h3>
 
 <p>1. Considerando el último número de tu número de documento (DNI o documento de
 identidad), agrega un componente adicional que afecte el funcionamiento del proyecto.

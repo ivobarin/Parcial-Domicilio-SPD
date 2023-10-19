@@ -4,9 +4,6 @@
 # - Enlace al PDF con las consignas📑:
 <p>Link del pdf: <a href="https://drive.google.com/file/d/1UTj8HBPnR7vM235m1BswtL_SMnmYe8nO/view?usp=sharing">PDF PARTE 1</p>
 
-# - Enlace al PDF con las consignas📑:
-<p>Link del pdf: <a href="https://drive.google.com/file/d/1UTj8HBPnR7vM235m1BswtL_SMnmYe8nO/view?usp=sharing">PDF PARTE 1</p>
-
 # - Codigo del proyecto: 
 ```
 // integrantes: AGUSTIN LANDEIRA, IARA PASQUARIO Y IVO BARINSTEIN

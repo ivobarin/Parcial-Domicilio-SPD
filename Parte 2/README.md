@@ -8,7 +8,7 @@
 <h2>Proporciona una descripción detallada del componente, su función y cómo se podría
 integrar en el proyecto.</h2>
 <p> -La funcionalidad del motor de CC en Arduino implica el control de la velocidad y la dirección del motor. <br>
-Esto se puede lograr utilizando un puente H o un driver de motor, que permite controlar la polaridad de la corriente que fluye a través del motor para determinar la dirección del giro, así como el control de la magnitud de la corriente para ajustar la velocidad del motor.<br>
+Esto se puede lograr utilizando un puente H o un driver de motor, que permite controlar la polaridad de la corriente que fluye a través del motor para determinar la dirección del giro, así como el control de la magnitud de la corriente para ajustar la velocidad del motor.<br><br>
 El motor de corriente continua (CC) es un componente que se utiliza comúnmente con Arduino y otros microcontroladores para controlar el movimiento de objetos, como ruedas en robots, persianas, ventiladores, etc.<br>
 El motor de CC es un componente fundamental en muchas aplicaciones de robótica y automatización controladas por Arduino.
 </p>

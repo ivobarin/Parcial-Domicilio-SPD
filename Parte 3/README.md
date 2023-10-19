@@ -2,7 +2,7 @@
 <p>link del proyecto: <a href=https://www.tinkercad.com/things/0MjyMbYJwpJ?sharecode=VNv8tUeFk-Ymn0epj80djxaUehxjG3j4WcnefQv7sW8>PARTE 3 (PARCIAL)</a></p>
 
 # - Enlace al Codigo del proyecto (OnlineGDB):
-<p>link del proyecto: <a href="https://onlinegdb.com/u-UNU1eEG">OnlineGDB<\a>
+<p>link del proyecto: <a href="https://onlinegdb.com/u-UNU1eEG">OnlineGDB</a>
 
 # - Explicacion de la fotoresistencia: 
 <p>Una fotorresistencia es un componente electrónico 

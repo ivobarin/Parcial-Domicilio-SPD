@@ -1,5 +1,5 @@
-# - Enlace al circuito de Tinkercat (Segunda Parte):
-<p>link del proyecto: <a href=https://www.tinkercad.com/things/0MjyMbYJwpJ?sharecode=VNv8tUeFk-Ymn0epj80djxaUehxjG3j4WcnefQv7sW8>PARTE 3</a></p>
+# - Enlace al circuito de Tinkercat (Tercera Parte):
+<p>link del proyecto: <a href=https://www.tinkercad.com/things/0MjyMbYJwpJ?sharecode=VNv8tUeFk-Ymn0epj80djxaUehxjG3j4WcnefQv7sW8>PARTE 3 (PARCIAL)</a></p>
 
 # - Explicacion de la fotoresistencia: 
 <p>Una fotorresistencia es un componente electrónico 
